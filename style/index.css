@@ -1,0 +1,25 @@
+html, body{
+	background: #eee;
+	height: 100%;
+}
+
+.main {
+	width: 90%;
+	min-height: 80%;
+    max-width: 960px;
+    background: #fff;
+    margin: 3em auto 0;
+    padding-top: 2em;
+    border: 1px solid #ddd;
+    border-width: 0 1px;
+}
+.main header {
+	padding: 5% 10% 0 10%;
+}
+.main article {
+	padding: 0 10%;
+}
+.main footer {
+	padding: 0 10% 0 10%;
+	color: #888;
+}
